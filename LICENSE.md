@@ -1,4 +1,4 @@
-# 
+# 开源 Blender 模板 Mac OS版 | 官方 Blender 模板 PC Windows版。集成 图层混合模式 和 毛发系统，跨平台性能最大化。
 
 
 
